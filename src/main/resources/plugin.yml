@@ -1,0 +1,7 @@
+name: Teleport
+main: Teleport
+version: 0.1
+commands:
+  send:
+    description: Does stuff.
+    usage: /<send> item
